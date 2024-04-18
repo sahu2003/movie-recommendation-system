@@ -54,5 +54,5 @@ if st.button('Show Similar Movies'):
         st.text(recommended_movie_names[4])
         st.image(recommended_movie_posters[4])
 
-url = "https://github.com/sahu2003"
+url = "https://github.com/sahu2003/movie-recommendation-system"
 st.caption("Made by [Sudhansu Sahu](%s)" % url)
